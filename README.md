@@ -1,0 +1,2 @@
+# Data-visualization-using-Seaborn
+Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics. Seaborn is widely used in the data science community and is particularly useful for exploring and visualizing data sets with multiple variables. It makes it easy to create complex, multi-layered graphics that can help you understand patterns and relationships in your data.
